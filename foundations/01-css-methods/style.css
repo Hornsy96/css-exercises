@@ -1,0 +1,17 @@
+/* CSS Styling */
+
+div {
+    background-color: red;
+    color: white;
+    font-size: 32px;
+    text-align: center;
+    font-weight: 700;
+
+}
+
+p {
+    background-color: green;
+    color: white;
+    font-size: 18px;
+}
+
