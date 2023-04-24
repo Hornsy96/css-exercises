@@ -1,0 +1,21 @@
+/* Css Styling*/
+
+.one {
+    background-color: pink;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#two {
+    color: blue;
+    font-size: 36px;
+}
+
+#three {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.four {
+    font-size: 24px;
+}
